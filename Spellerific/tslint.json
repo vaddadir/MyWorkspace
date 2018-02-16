@@ -120,13 +120,13 @@
     "directive-selector": [
       true,
       "attribute",
-      "app",
+      "spellerific",
       "camelCase"
     ],
     "component-selector": [
       true,
       "element",
-      "app",
+      "spellerific",
       "kebab-case"
     ],
     "no-output-on-prefix": true,
